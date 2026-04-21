@@ -8,7 +8,7 @@ on:
       countries:
         description: "EU,AM,... (boşsa default EU)"
         required: false
-        default: "EU"
+        default: "AM"
 
 jobs:
   run:
